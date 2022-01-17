@@ -1,0 +1,22 @@
+.navBar {
+  justify-content: center;
+  width: 100%;
+  align-content: center;
+  background-color: aqua;
+  font-size: 30px;
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+  margin-left: 75%;
+}
+
+ul#horizontal-list {
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+}
+ul#horizontal-list li {
+  display: inline;
+}
